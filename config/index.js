@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "943ceb2b5096cb1309fb2d1aea1c8fbb",
 
     // 模板消息id
-    TEMPLATE_ID: "	Ztr3ohOn_yetpmsnesoOFaFkt2GmvzFVB29dFEEpN_w",
+    TEMPLATE_ID: "Ztr3ohOn_yetpmsnesoOFaFkt2GmvzFVB29dFEEpN_w",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "op1k564fV1q3wD3hKZ38rCr1aXfI",
@@ -25,14 +25,14 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '老婆0', id: "1hxOO6VskYv0Kuf-y你懂的,填错狗头打烂VRMpuXhk"}, 
-      {name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
-      {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
-      {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
+      {name: '111', id: "op1k564fV1q3wD3hKZ38rCr1aXfI"}
+      //{name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
+     // {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
+      //{name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "5hxOO6VskYv你懂的,填错狗头打烂-ywIZVRMpuXhk"}, 
+      {name: '自己',id: "op1k564fV1q3wD3hKZ38rCr1aXfI"}, 
     ],
      
     /**
@@ -75,7 +75,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: ""
+    LITERARY_PREFERENCE: "每一天都是爱你的"
 
 
     }
