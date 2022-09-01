@@ -25,8 +25,8 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '111', id: "op1k564fV1q3wD3hKZ38rCr1aXfI"}
-      //{name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
+      {name: '111', id: "op1k564fV1q3wD3hKZ38rCr1aXfI"},
+      {name: '222', id: "op1k56-uGZq3559OGpzU8wvDjSQo"}, 
      // {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       //{name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
@@ -75,7 +75,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: "每一天都是爱你的"
+    LITERARY_PREFERENCE: ""
 
 
     }
