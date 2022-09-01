@@ -27,7 +27,7 @@ export const config = {
     USERS: [
       {name: '111', id: "op1k564fV1q3wD3hKZ38rCr1aXfI"},
       {name: '222', id: "op1k56-uGZq3559OGpzU8wvDjSQo"}, 
-     // {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
+      {name: '333', id: "op1k56w_6rx8UZD8yN1kC0-qYqoU"}, 
       //{name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
