@@ -44,7 +44,7 @@ export const config = {
     // 所在省份
     PROVINCE: "江苏",
     // 所在城市
-    CITY: "苏州",
+    CITY: "南京",
 
     /** 重要节日相关 */
 
@@ -53,7 +53,7 @@ export const config = {
     // 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
-      {"type": "生日", "name": "可爱", "year": "1996", "date": "01-01"},
+      {"type": "生日", "name": "宝子", "year": "2003", "date": "08-24"},
     ],
     // 限制重要节日的展示条目, 需要填写数字; 
     // 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
@@ -63,7 +63,7 @@ export const config = {
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2020-01-01",
+    LOVE_DATE: "2019-08-02",
     // 结婚纪念日
     //MARRY_DATE: "2020-01-04",
 
@@ -72,7 +72,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: "你好"
+    LITERARY_PREFERENCE: ""
 
 
     }
