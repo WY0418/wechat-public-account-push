@@ -25,9 +25,9 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '111', id: "op1k564fV1q3wD3hKZ38rCr1aXfI"},
-      //{name: '222', id: "op1k561AhUS4BBkzNW5g_P_crGf8"}, 
-      //{name: '333', id: "op1k56w_6rx8UZD8yN1kC0-qYqoU"}, 
+      {name: 'ME', id: "op1k564fV1q3wD3hKZ38rCr1aXfI"},
+      {name: 'DHN', id: "op1k561AhUS4BBkzNW5g_P_crGf8"}, 
+      //{name: 'MYLY', id: "op1k56w_6rx8UZD8yN1kC0-qYqoU"}, 
       //{name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
