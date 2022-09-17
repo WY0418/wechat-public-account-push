@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "wxcfef9abdc2cd4815",
+    APP_ID: "",
 
     // 公众号APP_SECRET
-    APP_SECRET: "943ceb2b5096cb1309fb2d1aea1c8fbb",
+    APP_SECRET: "",
 
     // 模板消息id
-    TEMPLATE_ID: "LPbTSUoAOSKK14Kf6AUVbYWPD-N2CR_cZuT_58mOOiM",
+    TEMPLATE_ID: "",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "op1k564fV1q3wD3hKZ38rCr1aXfI",
@@ -27,7 +27,7 @@ export const config = {
     USERS: [
       {name: 'ME', id: "op1k564fV1q3wD3hKZ38rCr1aXfI"},
       //{name: 'DHN', id: "op1k561AhUS4BBkzNW5g_P_crGf8"}, 
-      {name: 'MYLY', id: "op1k56w_6rx8UZD8yN1kC0-qYqoU"}, 
+      //{name: 'MYLY', id: "op1k56w_6rx8UZD8yN1kC0-qYqoU"}, 
       //{name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
@@ -44,7 +44,7 @@ export const config = {
     // 所在省份
     PROVINCE: "江苏",
     // 所在城市
-    CITY: "南京",
+    CITY: "苏州",
 
     /** 重要节日相关 */
 
